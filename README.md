@@ -1,2 +1,2 @@
 # MGMT-460-001
-Management for app project
+App for North American Indigenoues Peoples food education
