@@ -1,2 +1,2 @@
 # MGMT-460-001
-App for North American Indigenoues Peoples food education
+App for North American Indigenous Peoples food education
